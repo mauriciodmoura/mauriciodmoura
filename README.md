@@ -8,6 +8,8 @@ Hey, I'm Maurício de Moura, an enthusiastic and passionate developer on a quest
 
 - 🔧 **JavaScript**
 - 🔧 **TypeScript**
+- 🔧 **JAVA**
+- 🔧 **PHP**
 - 🎨 **React**
 - 🚀 **Node.js**
 - 🗃️ **Database**
